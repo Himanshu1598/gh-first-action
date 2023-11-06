@@ -1,7 +1,7 @@
 name: Multi-Line Workflow
 on: workflow_dispatch
 jobs:
-  multi-line job:
+  multi-line_job:
     runs-on: ubuntu-latest
     steps:
       - name: Multi-Command
